@@ -13,7 +13,7 @@ void main(int argc, char* argv[]){
   printA(A);
   isort(A);
   printA(A);
-
+  printf("The End.");
 }
 
 void printA(int A[]){
