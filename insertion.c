@@ -14,6 +14,7 @@ void main(int argc, char* argv[]){
   isort(A);
   printA(A);
   printf("===== The End of Insertion Sort Demo. =====");
+  printf("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\n");
 }
 
 void printA(int A[]){
