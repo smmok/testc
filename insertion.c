@@ -13,7 +13,7 @@ void main(int argc, char* argv[]){
   printA(A);
   isort(A);
   printA(A);
-  printf("The End of Insertion Sort Demo3.");
+  printf("===== The End of Insertion Sort Demo. =====");
 }
 
 void printA(int A[]){
