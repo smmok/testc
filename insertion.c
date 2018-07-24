@@ -17,6 +17,8 @@ void main(int argc, char* argv[]){
   printf("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\n");
 }
 
+}
+
 void printA(int A[]){
   int i=0;
 
