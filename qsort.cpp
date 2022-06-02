@@ -8,6 +8,8 @@ using namespace std;
 int compare(const void *a, const void *b);
 void print(const int *A);
 
+//---------------------------------
+
 int main(int argc, char* argv[]){
 
   int A[SIZE] = {5,2,4,3,1,7,6,9,0,8};
